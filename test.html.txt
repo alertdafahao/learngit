@@ -3,3 +3,4 @@ this is for test git;
 this line is changed;
 are you sure?
 有问题？
+add some chinese word
